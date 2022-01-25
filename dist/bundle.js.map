@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;AAAAA,OAAO,CAACC,GAAR,CAAY,8BAAZ,E","sources":["webpack://MINIPROJECT/./app/index.js"],"sourcesContent":["console.log(\"Babel and Webpack success!!!\");"],"names":["console","log"],"sourceRoot":""}
